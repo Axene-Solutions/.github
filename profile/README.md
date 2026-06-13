@@ -1,6 +1,14 @@
 <div align="center">
   <img src="https://axene.io/logos/axene_logo_corrected.webp" width="72" alt="Axene Solutions" />
-  <h1>Axene Solutions</h1>
+
+```
+   █████  ██   ██ ███████ ███    ██ ███████
+  ██   ██  ██ ██  ██      ████   ██ ██
+  ███████   ███   █████   ██ ██  ██ █████
+  ██   ██  ██ ██  ██      ██  ██ ██ ██
+  ██   ██ ██   ██ ███████ ██   ████ ███████
+```
+
   <p><strong>Developer infrastructure for Africa.</strong></p>
   <p>
     <a href="https://axene.io">axene.io</a> &nbsp;·&nbsp;
