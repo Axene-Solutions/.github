@@ -34,6 +34,16 @@ We build the developer tools African engineers need: email APIs, payment integra
 | **Axene Workspace** | Business productivity suite: email hosting, invoicing, CRM, and expense tracking for African SMEs. | `building` |
 | **Axene PNS** | Push notification service for web and mobile. No Firebase dependency. | `building` |
 
+## Stack
+
+We ship full-stack: Python and FastAPI on the backend, SvelteKit and TypeScript on the frontend, Postgres and Redis for data, all containerised with Docker behind Nginx. Client SDKs in TypeScript, .NET, Java, and Go.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,svelte,ts,js,tailwind,vite,postgres,redis,docker,nginx,dotnet,java,go,git,github,linux" />
+  </a>
+</p>
+
 ## The Team
 
 Five engineers based in Ruiru, Kenya, building infrastructure, payments, AI, security, and full-stack systems.
