@@ -1,15 +1,17 @@
 <div align="center">
   <img src="https://axene.io/logos/axene_logo_corrected.webp" width="72" alt="Axene Solutions" />
 
-```
-   █████  ██   ██ ███████ ███    ██ ███████
-  ██   ██  ██ ██  ██      ████   ██ ██
-  ███████   ███   █████   ██ ██  ██ █████
-  ██   ██  ██ ██  ██      ██  ██ ██ ██
-  ██   ██ ██   ██ ███████ ██   ████ ███████
-```
+  <h1>Axene Solutions</h1>
 
   <p><strong>Developer infrastructure for Africa.</strong></p>
+
+  <p>
+    <a href="https://axene.io"><img src="https://img.shields.io/badge/Website-axene.io-FFD100?style=flat-square&labelColor=101010" alt="Website" /></a>
+    <a href="https://mail.axene.io"><img src="https://img.shields.io/badge/Axene%20Mailer-live-1F8A5B?style=flat-square&labelColor=101010" alt="Axene Mailer" /></a>
+    <a href="https://axene.io"><img src="https://img.shields.io/badge/Billing-M--Pesa%20%C2%B7%20KES-FFD100?style=flat-square&labelColor=101010" alt="M-Pesa billing" /></a>
+    <a href="https://axene.io"><img src="https://img.shields.io/badge/Built%20in-Nairobi%2C%20Kenya-101010?style=flat-square&labelColor=101010" alt="Built in Nairobi, Kenya" /></a>
+  </p>
+
   <p>
     <a href="https://axene.io">axene.io</a> &nbsp;·&nbsp;
     <a href="https://mail.axene.io">Axene Mailer</a> &nbsp;·&nbsp;
